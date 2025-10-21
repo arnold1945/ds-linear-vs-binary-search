@@ -1,6 +1,6 @@
 
 
-#linear search
+#linear search SCENARIO 2
 unsorted_list = [42, 15, 7, 30, 22, 10, 18]
 target_1 = 30
 
@@ -19,7 +19,7 @@ print(linear_search_unsorted(unsorted_list, target_1))
 
 ######################################
 
-##binary search
+##binary search SCENARIO 1
 
 def binary_search_unsorted(arr, target):
     steps = 0
@@ -41,5 +41,35 @@ def binary_search_unsorted(arr, target):
 
 
 print(binary_search_unsorted(unsorted_list, target_1))
-        
+
+#######################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
